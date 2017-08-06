@@ -19,6 +19,7 @@ To run this build you need...
 - [*otfcc*](https://github.com/caryll/otfcc).
   - Download it here: https://github.com/caryll/otfcc
   - Make them (yes, there are two executables) visible in your PATH.
+- **CPU. A LOT.** (It takes me about 30 hours to build on a 16-core server. Really.)
 
 To run the hinting:
 
