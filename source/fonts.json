@@ -1,0 +1,155 @@
+{
+  "settings": {
+    "do_ttfautohint": true,
+    "cvt_padding": 0,
+    "use_externalIDH": false,
+    "use_VTTShell": false,
+    "build_ttc": true
+  },
+  "fonts": [
+    {
+      "input": "source/fonts/SourceHanSansSC-ExtraLight.otf",
+      "param": "source/parameters/extralight.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-ExtraLight.otf",
+      "param": "source/parameters/extralight.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-ExtraLight.otf",
+      "param": "source/parameters/extralight.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-ExtraLight.otf",
+      "param": "source/parameters/extralight.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Light.otf",
+      "param": "source/parameters/light.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Light.otf",
+      "param": "source/parameters/light.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Light.otf",
+      "param": "source/parameters/light.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Light.otf",
+      "param": "source/parameters/light.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Normal.otf",
+      "param": "source/parameters/normal.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Normal.otf",
+      "param": "source/parameters/normal.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Normal.otf",
+      "param": "source/parameters/normal.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Normal.otf",
+      "param": "source/parameters/normal.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWSC-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWTC-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHW-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWK-Regular.otf",
+      "param": "source/parameters/regular.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWSC-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWTC-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHW-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansHWK-Bold.otf",
+      "param": "source/parameters/bold.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Medium.otf",
+      "param": "source/parameters/medium.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Medium.otf",
+      "param": "source/parameters/medium.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Medium.otf",
+      "param": "source/parameters/medium.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Medium.otf",
+      "param": "source/parameters/medium.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansSC-Heavy.otf",
+      "param": "source/parameters/heavy.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansTC-Heavy.otf",
+      "param": "source/parameters/heavy.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSans-Heavy.otf",
+      "param": "source/parameters/heavy.toml"
+    },
+    {
+      "input": "source/fonts/SourceHanSansK-Heavy.otf",
+      "param": "source/parameters/heavy.toml"
+    }
+  ]
+}
