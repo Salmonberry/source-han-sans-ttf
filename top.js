@@ -285,9 +285,9 @@ Current hinting tasks
 				{ name: "Set CVT Padding.", value: "setCVTPadding" },
 				{ name: "Add new hinting task.", value: "addFont" },
 				{ name: "Delete hinting task.", value: "deleteFont" },
-				{ name: "Toggle TTFAutohint for non-ideographs.", value: "toggleTTFA" },
-				{ name: "Toggle use external Ideohint instance.", value: "toggleIDH" },
-				{ name: "Toggle VTTShell usage.", value: "toggleVTTShell" },
+				//{ name: "Toggle TTFAutohint for non-ideographs.", value: "toggleTTFA" },
+				//{ name: "Toggle use external Ideohint instance.", value: "toggleIDH" },
+				//{ name: "Toggle VTTShell usage.", value: "toggleVTTShell" },
 				//{ name: "Toggle Build TTC.", value: "toggleBuildTTC" },
 				{ name: "Cleanup intermediate files.", value: "cleanup" },
 				{ name: "Exit.", value: "exit" }

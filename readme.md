@@ -1,8 +1,8 @@
 # Ideohint Template for Source Han Sans
 
-This is a template for using [Caryll Ideohint](https://github.com/caryll/ideohint). The template contains:
+This is a template for using [Caryll Ideohint](https://github.com/caryll/ideohint) to build Source Han Sans' TTF version. The template contains:
 
-- Two subset TTF fonts of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans).
+- The full set of [Source Han Sans](https://github.com/adobe-fonts/source-han-sans) in OTF.
 - The corresponded parameters for hinting.
 - MAKEFILE and corresponded support files.
 
@@ -28,3 +28,4 @@ To run the hinting:
 - Type: `npm install`.
 - Type: `node top`.
 - Follow its instructions.
+  - Once you decide to perform hinting, the results would be in the `out/` directory.
