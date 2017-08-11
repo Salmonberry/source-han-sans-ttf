@@ -4,7 +4,7 @@
     "cvt_padding": 0,
     "use_externalIDH": false,
     "use_VTTShell": false,
-    "build_ttc": true
+    "build_ttc": false
   },
   "fonts": [
     {

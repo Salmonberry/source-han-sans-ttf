@@ -14,11 +14,10 @@
 		"clear": "0.0.1",
 		"colors": "^1.1.2",
 		"fs-extra": "^3.0.1",
-		"ideohint": "^0.96.1",
+		"ideohint": "^0.97.0",
 		"inquirer": "^3.2.1",
 		"inquirer-file-path": "^1.0.0",
-		"megaminx": "^0.1.4",
-		"otfcc-ttcize": "^0.3.4",
+		"megaminx": "^0.3.3",
 		"xmldom": "^0.1.27",
 		"xpath": "0.0.23",
 		"yargs": "^8.0.2"
