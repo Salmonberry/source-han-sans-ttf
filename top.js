@@ -1,6 +1,5 @@
 const fs = require("fs-extra");
 const path = require("path");
-const co = require("co");
 const os = require("os");
 const cp = require("child-process-promise");
 const argv = require("yargs").argv;
