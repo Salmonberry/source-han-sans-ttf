@@ -17,7 +17,7 @@
 		"ideohint": "^0.97.1",
 		"inquirer": "^3.2.1",
 		"inquirer-file-path": "^1.0.0",
-		"megaminx": "^0.3.3",
+		"megaminx": "^0.4.0",
 		"xmldom": "^0.1.27",
 		"xpath": "0.0.23",
 		"yargs": "^8.0.2"
